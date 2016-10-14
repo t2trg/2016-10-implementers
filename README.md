@@ -21,7 +21,7 @@ Please register ahead of time with [T2TRG chairs](mailto:t2trg-chairs@ietf.org)
 The below agenda is meant to be flexible, based on what we need to discuss.
 
 |       |                               |                                                                                 |
-|-------+-------------------------------+---------------------------------------------------------------------------------|
+|-------|-------------------------------|---------------------------------------------------------------------------------|
 | 09:00 | Chairs                        | Welcome, Meeting overview, T2TRG Status, Agenda Bashing                         |
 | 09:30 | Matthias Kovatsch             | Californium issues and statement of direction                                   |
 | 10:00 | Olaf Bergmann                 | libcoap issues and statement of direction                                       |
