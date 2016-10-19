@@ -10,7 +10,7 @@ All times are CEST (Cental European Summer Time, UTC+0200)
 
 October 27, 2016, Ludwigsburg, Germany
 
-[Hotel Blauzeit](https://www.google.de/maps/dir/Ludwigsburg/Hotel+Blauzeit,+Friedrichstraße+43,+71638+Ludwigsburg/@48.890811,9.1874924,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4799d1bb8490e447:0x7bfe3b1d6324316b!2m2!1d9.1856488!2d48.8924028!1m5!1m1!1s0x4799d1c7805d02db:0x60736a8b6f30f369!2m2!1d9.1937!2d48.88948!3e2)
+[Hotel Blauzeit](https://www.google.de/maps/dir/Ludwigsburg/Hotel+Blauzeit,+Friedrichstraße+43,+71638+Ludwigsburg/@48.890811,9.1874924,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x4799d1bb8490e447:0x7bfe3b1d6324316b!2m2!1d9.1856488!2d48.8924028!1m5!1m1!1s0x4799d1c7805d02db:0x60736a8b6f30f369!2m2!1d9.1937!2d48.88948!3e2), room "MATRIX".
 
 Please register ahead of time with [T2TRG chairs](mailto:t2trg-chairs@ietf.org)
 
