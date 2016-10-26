@@ -14,6 +14,10 @@ October 27, 2016, Ludwigsburg, Germany
 
 Please register ahead of time with [T2TRG chairs](mailto:t2trg-chairs@ietf.org)
 
+Unfortunately, due to connectivity problems at the meeting hotel, likely we will not have remote video or audio participation possibility this time.
+
+Interactive minutes: https://docs.google.com/document/d/1luY-ZP-PfVWbYuvv-vpWM9RIzIXq18qyqnyZYxauAuU
+
 # THURSDAY, October 27
 
 09:00..18:00
