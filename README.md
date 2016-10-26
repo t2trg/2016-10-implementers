@@ -33,7 +33,7 @@ The below agenda is meant to be flexible, based on what we need to discuss.
 | 10:40 | Tobias Rohde, Tobias Kaupat   | Lobaro CoAP issues and statement of direction                                   |
 | 10:55 | (Chairs)                      | other CoAP implementations                                                      |
 | 11:10 |                               | Coffee Break                                                                    |
-| 11:30 | Kai Udalla, Matthias Kovatsch | Scandium issues and statement of direction                                      |
+| 11:30 | Kai Hudalla, Matthias Kovatsch| Scandium issues and statement of direction                                      |
 | 11:45 | Olaf Bergmann                 | tinydtls issues and statement of direction                                      |
 | 12:00 | (Chairs)                      | other DTLS implementations; DTLS issues: CBC, DTLS 1.3, compatibility, stapling |
 | 12:30 | Lunch                         |                                                                                 |
